@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://kev-camp-guide.vercel.app/sitemap.xml
+Sitemap: https://k-bridge-ivory.vercel.app/sitemap.xml

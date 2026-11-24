@@ -1,7 +1,6 @@
 {
   "name": "kev-camp-guide",
   "private": true,
-  "engines": { "node": "20.x" },
   "scripts": {
     "site:build": "python3 build.py",
     "test": "node test/aero.test.js"

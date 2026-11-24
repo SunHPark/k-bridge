@@ -1,6 +1,4 @@
 {
-  "buildCommand": "echo 'prebuilt static site - no build needed'",
-  "outputDirectory": ".",
   "cleanUrls": true,
   "headers": [
     {
